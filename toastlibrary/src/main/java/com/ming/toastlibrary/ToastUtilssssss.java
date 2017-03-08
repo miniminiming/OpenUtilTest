@@ -8,7 +8,7 @@ import android.widget.Toast;
 
 public class ToastUtilssssss {
     public static void showToast(Activity activity){
-        Toast.makeText(activity,"我士尼霸霸，服不服",Toast.LENGTH_SHORT).show();
+        Toast.makeText(activity,"来自明明的远程库(^_^)",Toast.LENGTH_SHORT).show();
     }
 
 }
